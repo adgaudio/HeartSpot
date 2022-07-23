@@ -1,5 +1,5 @@
 *HeartSpot*: Privatized and Explainable Data Compression for Cardiomegaly Detection
----
+===
 
 #### NOTE:  The paper was accepted but not yet published.  I will remove the TODO statements after the paper is published.
 
@@ -8,13 +8,13 @@
 
 This repository contains code for the conference paper.
 
-Citation:
+- Citation:
 
 ```
 TODO
 ```
 
-Bibtex:
+- Bibtex:
 
 ```
 TODO
@@ -22,8 +22,8 @@ TODO
 ```
 
 
-Paper on ArXiv:  **TODO: add url after conference**
-Paper on IEEE, as published via conference BHI-BHN 2022:  **TODO:  add URL after conference**
+- Paper on ArXiv:  **TODO: add url after conference**
+- Paper on IEEE, as published via conference BHI-BHN 2022:  **TODO:  add URL after conference**
 
 
 Reproducibility
