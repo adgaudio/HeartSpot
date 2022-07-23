@@ -3,6 +3,9 @@
 
 #### NOTE:  The paper was accepted but not yet published.  I will remove the TODO statements after the paper is published.
 
+![figure 1 of paper](./heartspot_fig1.png)
+![figure 2 of paper](./arch_diagram.png)
+
 This repository contains code for the conference paper.
 
 Citation:
