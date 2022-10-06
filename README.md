@@ -1,12 +1,14 @@
 *HeartSpot*: Privatized and Explainable Data Compression for Cardiomegaly Detection
 ===
 
-#### NOTE:  The paper was accepted but not yet published.  I will remove the TODO statements after the paper is published.
+This repository contains code for the BHI 2022 conference paper.
+
+- Paper on ArXiv:  http://arxiv.org/abs/2210.02241
+- Paper on IEEE:  **TODO:  add URL after conference**
 
 ![figure 1 of paper](./heartspot_fig1.png)
 ![figure 2 of paper](./arch_diagram.png)
 
-This repository contains code for the conference paper.
 
 - Citation:
 
@@ -22,14 +24,11 @@ TODO
 ```
 
 
-- Paper on ArXiv:  **TODO: add url after conference**
-- Paper on IEEE, as published via conference BHI-BHN 2022:  **TODO:  add URL after conference**
-
 
 Reproducibility
 ===
 
-The code used for the paper was extracted from a code repository that contained code for another project.  I attempted to extract only the relevant material pertaining to this paper.  Please let me know how to fix an issue or otherwise that you encountered one.
+The code used for the paper was extracted from a code repository that contained code for another project.  I attempted to extract only the relevant material pertaining to this paper.  Please let me know how to fix an issue or otherwise if you encountered one.
 
 #### Git clone this repository and cd into it
 
