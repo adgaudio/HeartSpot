@@ -4,7 +4,7 @@
 This repository contains code for the BHI 2022 conference paper.
 
 - Paper on ArXiv:  http://arxiv.org/abs/2210.02241
-- Paper on IEEE:  **TODO:  add URL after conference**
+- Paper on IEEE:   https://doi.org/10.1109/BHI56158.2022.9926777
 
 ![figure 1 of paper](./heartspot_fig1.png)
 ![figure 2 of paper](./arch_diagram.png)
@@ -13,14 +13,21 @@ This repository contains code for the BHI 2022 conference paper.
 - Citation:
 
 ```
-TODO
+Johnson, E., Mohan, S., Gaudio, A., Smailagic, A., Faloutsos, C., & Campilho, A. (2022, September). HeartSpot: Privatized and Explainable Data Compression for Cardiomegaly Detection. In 2022 IEEE-EMBS International Conference on Biomedical and Health Informatics (BHI) (pp. 01-04). IEEE.
 ```
 
 - Bibtex:
 
 ```
-TODO
-
+@inproceedings{heartspot,
+  title={{HeartSpot}: Privatized and Explainable Data Compression for Cardiomegaly Detection},
+  author={Johnson, Elvin and Mohan, Shreshta and Gaudio, Alex and Smailagic, Asim and Faloutsos, Christos and Campilho, Aur{\'e}lio},
+  year={2022}, month={10},
+  booktitle={IEEE-EMBS International Conference on Biomedical and Health Informatics (BHI)},
+  pages={01--04},
+  organization={IEEE},
+  url = {https://doi.org/10.1109/BHI56158.2022.9926777}
+}
 ```
 
 
